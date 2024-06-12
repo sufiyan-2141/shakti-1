@@ -1,0 +1,15 @@
+[24-Apr-2024 12:34:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/webschedioadmin/public_html/webschedio.com/inc/sendmail.php on line 74
+[24-Apr-2024 12:36:03 UTC] PHP Notice:  Undefined index: form_botcheck in /home/webschedioadmin/public_html/webschedio.com/inc/sendmail.php on line 39
+[24-Apr-2024 12:36:03 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/webschedioadmin/public_html/webschedio.com/inc/sendmail.php on line 56
+[24-Apr-2024 12:36:33 UTC] PHP Notice:  Undefined index: form_botcheck in /home/webschedioadmin/public_html/webschedio.com/inc/sendmail.php on line 39
+[24-Apr-2024 12:36:33 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/webschedioadmin/public_html/webschedio.com/inc/sendmail.php on line 56
+[24-Apr-2024 12:36:53 UTC] PHP Notice:  Undefined index: form_botcheck in /home/webschedioadmin/public_html/webschedio.com/inc/sendmail.php on line 39
+[24-Apr-2024 12:36:53 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/webschedioadmin/public_html/webschedio.com/inc/sendmail.php on line 56
+[24-Apr-2024 12:37:22 UTC] PHP Notice:  Undefined index: form_botcheck in /home/webschedioadmin/public_html/webschedio.com/inc/sendmail.php on line 39
+[24-Apr-2024 12:37:22 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/webschedioadmin/public_html/webschedio.com/inc/sendmail.php on line 56
+[24-Apr-2024 12:37:22 UTC] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number in /home/webschedioadmin/public_html/webschedio.com/inc/phpmailer/class.smtp.php on line 344
+[24-Apr-2024 12:38:28 UTC] PHP Notice:  Undefined index: form_botcheck in /home/webschedioadmin/public_html/webschedio.com/inc/sendmail.php on line 39
+[24-Apr-2024 12:38:28 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/webschedioadmin/public_html/webschedio.com/inc/sendmail.php on line 56
+[24-Apr-2024 12:38:28 UTC] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number in /home/webschedioadmin/public_html/webschedio.com/inc/phpmailer/class.smtp.php on line 344
